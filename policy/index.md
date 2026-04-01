@@ -32,6 +32,6 @@ PowerLink(이하 '앱')는 사용자의 개인정보를 소중히 다루며, 「
 
   8. 문의처
    - 개인정보와 관련한 문의사항은 아래 연락처로 문의해 주시기 바랍니다.
-   - 이메일: ralphjy.dev@gmail.com
+   - 이메일: zelkova.dev.lab@gmail.com
 
   최종 수정일: 2026년 3월 9일
